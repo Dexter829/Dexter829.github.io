@@ -3,6 +3,9 @@
 
 ### I'm a creative tech enthusiast with a passion for crafting digital experiences. 🌟
 
+### Python Developer 🐍
+As a passionate learner in the field of technology, I am currently immersed in the world of Python and data analysis. My journey is fueled by a curiosity to uncover insights through data and a drive to develop innovative solutions. With each line of code, I strive to enhance my proficiency and contribute to the vast landscape of data-driven decision-making.
+
 ### 💼 Web Developer Extraordinaire 💼
 I'm not just a web developer; I'm a digital architect. I bring ideas to life with lines of code, creating websites that are functional and visually stunning. My web development skills are the cornerstone of my digital journey.
 
